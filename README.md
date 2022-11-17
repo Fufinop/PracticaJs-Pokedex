@@ -22,7 +22,7 @@ Bonus:
 -   Bonus de despliegue de tu pokedex
 -   Bonus de uso de otras rutas como búsqueda por número de Pokemon o mostrar un rango de pokemons
 
-##La pagina ya ha sido terminado aquí dejo una imagen de la misma
+## La pagina ya ha sido terminado aquí dejo una imagen de la misma
 
 ![Image text](/Image/pokedex_img.png)
 
