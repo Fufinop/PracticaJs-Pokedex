@@ -20,4 +20,12 @@ Bonus:
 
 -   Bonus si tu página es responsive y se puede ver en celulares
 -   Bonus de despliegue de tu pokedex
--   Bonus de uso de otras rutas como búsqueda por número de Pokemon o mostrar un rango de pokemóns
+-   Bonus de uso de otras rutas como búsqueda por número de Pokemon o mostrar un rango de pokemons
+
+##La pagina ya ha sido terminado aquí dejo una imagen de la misma
+
+![Image text](/Image/pokedex_img.png)
+
+Y también dejo el link de la misma
+
+[Link](https://codepen.io/fufino/full/rNKGvMV)
